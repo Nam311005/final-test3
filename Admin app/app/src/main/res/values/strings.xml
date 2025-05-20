@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdminSweeto</string>
+    <string name="sweeto">Sweeto</string>
+    <string name="default_web_client_id">Your WEB API Key</string>
+
+
+</resources>

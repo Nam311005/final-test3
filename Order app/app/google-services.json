@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87818655644",
+    "project_id": "food-order-34fc4",
+    "storage_bucket": "food-order-34fc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87818655644:android:f4cf6bc664cfda79a55a59",
+        "android_client_info": {
+          "package_name": "com.dialiax.sweeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDUNXvCXkwwIQHq0kTx57op77nGxzNS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
